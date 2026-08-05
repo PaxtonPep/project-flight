@@ -1,1 +1,49 @@
+body {
+    background: #1a1a1a;
+    color: white;
+    font-family: Arial;
+    padding: 20px;
+}
 
+h1 {
+    margin-bottom: 20px;
+}
+
+label {
+    display: block;
+    margin-top: 15px;
+}
+
+select {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    font-size: 16px;
+}
+
+#imageContainer {
+    margin-top: 25px;
+}
+
+.imgBox {
+    position: relative;
+    width: 300px;
+    margin-bottom: 20px;
+}
+
+.imgBox img {
+    width: 100%;
+    border-radius: 8px;
+}
+
+.imgBox button {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    background: red;
+    color: white;
+    border: none;
+    padding: 6px 10px;
+    border-radius: 4px;
+    cursor: pointer;
+}
