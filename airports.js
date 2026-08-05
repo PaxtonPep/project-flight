@@ -8,19 +8,29 @@ const airports = [
         icao: "LCLK",
 
         departures: [
-            "insert image link",   // departure chart 1
-            "insert image link",   // departure chart 2
-            "insert image link"    // departure chart 3
+            "insert image link",
+            "insert image link",
+            "none"
         ],
 
         arrivals: [
-            "insert image link",   // arrival chart 1
-            "insert image link",   // arrival chart 2
-            "insert image link"    // arrival chart 3
+            "insert image link",
+            "insert image link",
+            "none"
         ],
 
-        taxi_chart: "insert image link",
-        gate_chart: "insert image link",
+        taxi_charts: [
+            "insert image link",
+            "none",
+            "none"
+        ],
+
+        gate_charts: [
+            "insert image link",
+            "none",
+            "none"
+        ],
+
         taxi_gate_same: "n"
     },
 
@@ -31,8 +41,9 @@ const airports = [
         departures: ["none", "none", "none"],
         arrivals: ["none", "none", "none"],
 
-        taxi_chart: "insert image link",
-        gate_chart: "insert image link",
+        taxi_charts: ["insert image link", "none", "none"],
+        gate_charts: ["insert image link", "none", "none"],
+
         taxi_gate_same: "y"
     },
 
@@ -43,8 +54,9 @@ const airports = [
         departures: ["none", "none", "none"],
         arrivals: ["none", "none", "none"],
 
-        taxi_chart: "insert image link",
-        gate_chart: "insert image link",
+        taxi_charts: ["insert image link", "none", "none"],
+        gate_charts: ["insert image link", "none", "none"],
+
         taxi_gate_same: "y"
     },
 
@@ -55,8 +67,9 @@ const airports = [
         departures: ["none", "none", "none"],
         arrivals: ["none", "none", "none"],
 
-        taxi_chart: "insert image link",
-        gate_chart: "insert image link",
+        taxi_charts: ["insert image link", "none", "none"],
+        gate_charts: ["insert image link", "none", "none"],
+
         taxi_gate_same: "y"
     },
 
@@ -67,8 +80,9 @@ const airports = [
         departures: ["none", "none", "none"],
         arrivals: ["none", "none", "none"],
 
-        taxi_chart: "insert image link",
-        gate_chart: "insert image link",
+        taxi_charts: ["insert image link", "none", "none"],
+        gate_charts: ["insert image link", "none", "none"],
+
         taxi_gate_same: "y"
     },
 
@@ -79,8 +93,9 @@ const airports = [
         departures: ["none", "none", "none"],
         arrivals: ["none", "none", "none"],
 
-        taxi_chart: "insert image link",
-        gate_chart: "insert image link",
+        taxi_charts: ["insert image link", "none", "none"],
+        gate_charts: ["insert image link", "none", "none"],
+
         taxi_gate_same: "n"
     },
 
@@ -91,8 +106,9 @@ const airports = [
         departures: ["none", "none", "none"],
         arrivals: ["none", "none", "none"],
 
-        taxi_chart: "insert image link",
-        gate_chart: "insert image link",
+        taxi_charts: ["insert image link", "none", "none"],
+        gate_charts: ["insert image link", "none", "none"],
+
         taxi_gate_same: "n"
     },
 
@@ -103,8 +119,9 @@ const airports = [
         departures: ["none", "none", "none"],
         arrivals: ["none", "none", "none"],
 
-        taxi_chart: "insert image link",
-        gate_chart: "insert image link",
+        taxi_charts: ["insert image link", "none", "none"],
+        gate_charts: ["insert image link", "none", "none"],
+
         taxi_gate_same: "n"
     },
 
@@ -115,8 +132,9 @@ const airports = [
         departures: ["none", "none", "none"],
         arrivals: ["none", "none", "none"],
 
-        taxi_chart: "insert image link",
-        gate_chart: "insert image link",
+        taxi_charts: ["insert image link", "none", "none"],
+        gate_charts: ["insert image link", "none", "none"],
+
         taxi_gate_same: "y"
     },
 
@@ -127,8 +145,9 @@ const airports = [
         departures: ["none", "none", "none"],
         arrivals: ["none", "none", "none"],
 
-        taxi_chart: "insert image link",
-        gate_chart: "insert image link",
+        taxi_charts: ["insert image link", "none", "none"],
+        gate_charts: ["insert image link", "none", "none"],
+
         taxi_gate_same: "n"
     },
 
@@ -139,8 +158,9 @@ const airports = [
         departures: ["none", "none", "none"],
         arrivals: ["none", "none", "none"],
 
-        taxi_chart: "insert image link",
-        gate_chart: "insert image link",
+        taxi_charts: ["insert image link", "none", "none"],
+        gate_charts: ["insert image link", "none", "none"],
+
         taxi_gate_same: "n"
     },
 
@@ -151,8 +171,9 @@ const airports = [
         departures: ["none", "none", "none"],
         arrivals: ["none", "none", "none"],
 
-        taxi_chart: "insert image link",
-        gate_chart: "insert image link",
+        taxi_charts: ["insert image link", "none", "none"],
+        gate_charts: ["insert image link", "none", "none"],
+
         taxi_gate_same: "n"
     },
 
@@ -163,8 +184,9 @@ const airports = [
         departures: ["none", "none", "none"],
         arrivals: ["none", "none", "none"],
 
-        taxi_chart: "insert image link",
-        gate_chart: "insert image link",
+        taxi_charts: ["insert image link", "none", "none"],
+        gate_charts: ["insert image link", "none", "none"],
+
         taxi_gate_same: "y"
     }
 
