@@ -8,26 +8,26 @@ const airports = [
         icao: "LCLK",
 
         departures: [
-            "insert image link",
-            "insert image link",
+            "https://files.catbox.moe/i69h5h.png",
+            "https://files.catbox.moe/dhybnk.png",
             "none"
         ],
 
         arrivals: [
-            "insert image link",
-            "insert image link",
+            "https://files.catbox.moe/fg41b7.png",
+            "https://files.catbox.moe/v52r11.png",
             "none"
         ],
 
         taxi_charts: [
-            "insert image link",
+            "https://files.catbox.moe/4il3wv.png",
             "none",
             "none"
         ],
 
         gate_charts: [
-            "insert image link",
-            "none",
+            "https://files.catbox.moe/ma992i.png",
+            "https://files.catbox.moe/xqr18b.png",
             "none"
         ],
 
