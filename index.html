@@ -1,19 +1,25 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Project Flight Charts</title>
+    <title>Project Flight Chart Viewer</title>
     <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
 
-<h1>Project Flight Chart Viewer</h1>
+<div id="controls">
+    <h1>Project Flight Chart Viewer</h1>
 
-<label>Select Airport:</label>
-<select id="airportSelect"></select>
+    <button id="toggleControls">Hide Controls</button>
 
-<label>Select Chart Type:</label>
-<select id="chartSelect"></select>
+    <label>Select Airport:</label>
+    <select id="airportSelect"></select>
+
+    <label>Select Chart Type:</label>
+    <select id="chartSelect"></select>
+
+    <button id="addChart">Add Chart</button>
+</div>
 
 <div id="imageContainer"></div>
 
