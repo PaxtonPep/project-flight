@@ -41,10 +41,10 @@ const airports = [
         departures: ["none", "none", "none"],
         arrivals: ["none", "none", "none"],
 
-        taxi_charts: ["insert image link", "none", "none"],
-        gate_charts: ["insert image link", "none", "none"],
+        taxi_charts: ["https://files.catbox.moe/h3anuv.png", "none", "none"],
+        gate_charts: ["https://files.catbox.moe/3afyi2.png", "none", "none"],
 
-        taxi_gate_same: "y"
+        taxi_gate_same: "n"
     },
 
     {
@@ -54,8 +54,8 @@ const airports = [
         departures: ["none", "none", "none"],
         arrivals: ["none", "none", "none"],
 
-        taxi_charts: ["insert image link", "none", "none"],
-        gate_charts: ["insert image link", "none", "none"],
+        taxi_charts: ["https://files.catbox.moe/zxwmhj.png", "none", "none"],
+        gate_charts: ["https://files.catbox.moe/zxwmhj.png", "none", "none"],
 
         taxi_gate_same: "y"
     },
@@ -67,8 +67,8 @@ const airports = [
         departures: ["none", "none", "none"],
         arrivals: ["none", "none", "none"],
 
-        taxi_charts: ["insert image link", "none", "none"],
-        gate_charts: ["insert image link", "none", "none"],
+        taxi_charts: ["https://files.catbox.moe/we99rh.png", "none", "none"],
+        gate_charts: ["https://files.catbox.moe/we99rh.png", "none", "none"],
 
         taxi_gate_same: "y"
     },
@@ -80,8 +80,8 @@ const airports = [
         departures: ["none", "none", "none"],
         arrivals: ["none", "none", "none"],
 
-        taxi_charts: ["insert image link", "none", "none"],
-        gate_charts: ["insert image link", "none", "none"],
+        taxi_charts: ["https://files.catbox.moe/16re7a.png", "none", "none"],
+        gate_charts: ["https://files.catbox.moe/16re7a.png", "none", "none"],
 
         taxi_gate_same: "y"
     },
@@ -93,21 +93,21 @@ const airports = [
         departures: ["none", "none", "none"],
         arrivals: ["none", "none", "none"],
 
-        taxi_charts: ["insert image link", "none", "none"],
-        gate_charts: ["insert image link", "none", "none"],
+        taxi_charts: ["https://files.catbox.moe/bos5p0.png", "none", "none"],
+        gate_charts: ["https://files.catbox.moe/bos5p0.png", "none", "none"],
 
-        taxi_gate_same: "n"
+        taxi_gate_same: "y"
     },
 
     {
         name: "Punta Cana",
         icao: "MDPC",
 
-        departures: ["none", "none", "none"],
-        arrivals: ["none", "none", "none"],
+        departures: ["https://files.catbox.moe/ro6rlv.png", "https://files.catbox.moe/rhlru0.png", "none"],
+        arrivals: ["https://files.catbox.moe/rykj1k.png", "https://files.catbox.moe/jjc2s2.png", "https://files.catbox.moe/mbkfz7.png"],
 
-        taxi_charts: ["insert image link", "none", "none"],
-        gate_charts: ["insert image link", "none", "none"],
+        taxi_charts: ["https://files.catbox.moe/q5kodn.jpg", "none", "none"],
+        gate_charts: ["https://files.catbox.moe/mvvo4q.jpg", "none", "none"],
 
         taxi_gate_same: "n"
     },
@@ -116,13 +116,13 @@ const airports = [
         name: "Kittilä",
         icao: "EFKT",
 
-        departures: ["none", "none", "none"],
-        arrivals: ["none", "none", "none"],
+        departures: ["https://files.catbox.moe/qv8bwt.png", "none", "none"],
+        arrivals: ["https://files.catbox.moe/ltcq6k.png", "none", "none"],
 
-        taxi_charts: ["insert image link", "none", "none"],
-        gate_charts: ["insert image link", "none", "none"],
+        taxi_charts: ["https://files.catbox.moe/wete7s.png", "none", "none"],
+        gate_charts: ["https://files.catbox.moe/wete7s.png", "none", "none"],
 
-        taxi_gate_same: "n"
+        taxi_gate_same: "y"
     },
 
     {
@@ -132,8 +132,8 @@ const airports = [
         departures: ["none", "none", "none"],
         arrivals: ["none", "none", "none"],
 
-        taxi_charts: ["insert image link", "none", "none"],
-        gate_charts: ["insert image link", "none", "none"],
+        taxi_charts: ["https://files.catbox.moe/uymdyf.png", "none", "none"],
+        gate_charts: ["https://files.catbox.moe/uymdyf.png", "none", "none"],
 
         taxi_gate_same: "y"
     },
@@ -142,37 +142,37 @@ const airports = [
         name: "Gran Canaria",
         icao: "GCLP",
 
-        departures: ["none", "none", "none"],
-        arrivals: ["none", "none", "none"],
+        departures: ["https://files.catbox.moe/d5oyq1.jpg", "https://files.catbox.moe/9cip84.jpg", "https://files.catbox.moe/raxts5.jpg"],
+        arrivals: ["https://files.catbox.moe/3bln8y.jpg", "https://files.catbox.moe/7uqp2h.jpg", "https://files.catbox.moe/mj89ww.jpg"],
 
-        taxi_charts: ["insert image link", "none", "none"],
-        gate_charts: ["insert image link", "none", "none"],
+        taxi_charts: ["https://files.catbox.moe/xeackp.jpg", "none", "none"],
+        gate_charts: ["https://files.catbox.moe/xeackp.jpg", "none", "none"],
 
-        taxi_gate_same: "n"
+        taxi_gate_same: "y"
     },
 
     {
         name: "Menorca",
         icao: "LEMH",
 
-        departures: ["none", "none", "none"],
-        arrivals: ["none", "none", "none"],
+        departures: ["https://files.catbox.moe/54y8i8.png", "none", "none"],
+        arrivals: ["https://files.catbox.moe/csswxb.png", "none", "none"],
 
-        taxi_charts: ["insert image link", "none", "none"],
-        gate_charts: ["insert image link", "none", "none"],
+        taxi_charts: ["https://files.catbox.moe/y0p5ia.png", "none", "none"],
+        gate_charts: ["https://files.catbox.moe/y0p5ia.png", "none", "none"],
 
-        taxi_gate_same: "n"
+        taxi_gate_same: "y"
     },
 
     {
         name: "Gatwick",
         icao: "EGKK",
 
-        departures: ["none", "none", "none"],
-        arrivals: ["none", "none", "none"],
+        departures: ["https://files.catbox.moe/ex6cp4.jpg", "https://files.catbox.moe/rfx7j7.jpg", "https://files.catbox.moe/jxpe3c.jpg"],
+        arrivals: ["https://files.catbox.moe/ukldnv.jpg", "https://files.catbox.moe/ts484z.jpg", "none"],
 
-        taxi_charts: ["insert image link", "none", "none"],
-        gate_charts: ["insert image link", "none", "none"],
+        taxi_charts: ["https://files.catbox.moe/0hgwe6.png", "none", "none"],
+        gate_charts: ["https://files.catbox.moe/n5fxol.jpg", "none", "none"],
 
         taxi_gate_same: "n"
     },
@@ -184,8 +184,8 @@ const airports = [
         departures: ["none", "none", "none"],
         arrivals: ["none", "none", "none"],
 
-        taxi_charts: ["insert image link", "none", "none"],
-        gate_charts: ["insert image link", "none", "none"],
+        taxi_charts: ["https://files.catbox.moe/swga44.png", "none", "none"],
+        gate_charts: ["https://files.catbox.moe/swga44.png", "none", "none"],
 
         taxi_gate_same: "y"
     }
